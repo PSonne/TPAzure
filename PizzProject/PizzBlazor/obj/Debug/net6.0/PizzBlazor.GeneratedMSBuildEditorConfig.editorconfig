@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PizzBlazor
+build_property.RootNamespace = PizzBlazor
+build_property.ProjectDir = C:\IDP88-PRF-POEC-DotNET\10-DotNet\9-Blazor\PizzProject\PizzBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\IDP88-PRF-POEC-DotNET\10-DotNet\9-Blazor\PizzProject\PizzBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/Pages/PizzaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6zvdu619d5
+
+[C:/IDP88-PRF-POEC-DotNET/10-DotNet/9-Blazor/PizzProject/PizzBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7qf4ubf6wu
